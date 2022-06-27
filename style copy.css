@@ -1,0 +1,23 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#text{
+    float: left;
+    width: 30%;
+    text-decoration: none;
+}
+#signup{
+    float: left;
+    text-align: right;
+    display: inline;
+}
+#signup input{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+font-style:italic;
+}
+
